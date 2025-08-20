@@ -27,6 +27,6 @@ El curso se propone dar los fundamentos teóricos que subyacen a los asistentes 
 
 - Benjamin C. Pierce y otros. Software Foundations series, volume 1: Logical Foundations. Versión 6.7, disponible en https://softwarefoundations.cis.upenn.edu/. Electronic textbook, 2024.
 
-<font style="color:blue"> Recomendado para nociones basicas de Programacion Funcional, Calculo Lambda simplemente tipado y logica, estos temas se encuentran (y muchos mas) en los primeros 4 capitulos </font>
+<code style="color:blue"> Recomendado para nociones basicas de Programacion Funcional, Calculo Lambda simplemente tipado y logica, estos temas se encuentran (y muchos mas) en los primeros 4 capitulos </code>
 
 - Morte Heine Sørensen y Pawel Urzyczyn. Lectures on the Curry-Howard isomorphism. Elsevier, 2006. Disponible en https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf.
