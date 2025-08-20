@@ -19,7 +19,13 @@ El curso se propone dar los fundamentos teóricos que subyacen a los asistentes 
 
 ## Bibliografía básica
 
+<!-- Comentario: la parte en HTML, que se ve en azul, son comentarios respecto de cual es la intencion que tiene la bibliografia respecto de la materia respecto de la utilidad y que temas contiene -->
+
 - The Univalent Foundations Program. Homotopy Type Theory: Univalent Foundations of Mathematics. Disponible en https://homotopytypetheory.org/book/. Institute for Advanced Study, 2013.
+
 - Philip Wadler, Wen Kokke y Jeremy G. Siek. Programming Language Foundations in Agda. Disponible en https://plfa.inf.ed.ac.uk/22.08/. 2022.
+
 - Benjamin C. Pierce y otros. Software Foundations series, volume 1: Logical Foundations. Versión 6.7, disponible en https://softwarefoundations.cis.upenn.edu/. Electronic textbook, 2024.
-- Morte Heine Sørensen y Pawel Urzyczyn. Lectures on the Curry-Howard isomorphism. Elsevier, 2006.
+
+<span style="color:blue"> Recomendado para nociones basicas de Programacion Funcional, Calculo Lambda simplemente tipado y logica, estos temas se encuentran (y muchos mas) en los primeros 4 capitulos </span>
+- Morte Heine Sørensen y Pawel Urzyczyn. Lectures on the Curry-Howard isomorphism. Elsevier, 2006. Disponible en https://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf.
